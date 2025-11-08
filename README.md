@@ -10,5 +10,5 @@ Tecnologias utilizadas
 - CSS3
 
 ## ❤️ Veja o projeto online
-👉 [Clique aqui para acessar](https://beatrizthomaz.github.io/playlist-de-musica/)
+👉 [Clique aqui para acessar]([https://beatrizthomaz.github.io/playlist-de-musica/](https://beatrizmothe.github.io/my-playlist/))
 
